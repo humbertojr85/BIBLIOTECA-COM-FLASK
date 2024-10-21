@@ -1,0 +1,2 @@
+class LivroNaoEncontradoException(Exception):
+    pass
